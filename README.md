@@ -1,7 +1,9 @@
 # SpaceBotany
 Details of aeroponic mister control using esp8266
+
 This is supplementary material for our entry in the Grow Beyond Earth contest (Feb 3, 2020)
 See Instructables/contests for details.
+
 The design uses a 113kHz piezoelectric mister w/ WG3166A board to aeroponically grow lettuce plants.
 Files in this repository inlude 'mister-esp8266-wiring.pdf', which shows the wiring for controlling the mister with an ESP8266 microcontroller. A DHT22 temp/humidity sensor is also included. 
 Data is uploaded to https://thingspeak.com/channels/948030
